@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+  min-width: 500px;
+  min-height: 500px;
+}
+
+button {
+	min-width: 50px;
+	min-height: 50px;
+}
+
+#sub {
+  position: absolute;
+  bottom: 15px;
+}
+

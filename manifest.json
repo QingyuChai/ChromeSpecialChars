@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "SpecialChars",
+  "version": "1",
+  "icons": {
+    "256": "icon_256.png",
+    "128": "icon_128.png",
+    "48": "icon_48.png",
+    "32": "icon_32.png"
+  },
+  "permissions": [
+
+  ],
+  "background": {
+      "scripts": []
+  },
+  "content_scripts": [
+
+  ],
+  "minimum_chrome_version": "28",
+
+  "browser_action": {
+    "default_icon": "icon_128.png",
+    "default_popup": "menu.html",
+    "default_title": "SpecialChars"
+  }
+}
+
+
+
+
